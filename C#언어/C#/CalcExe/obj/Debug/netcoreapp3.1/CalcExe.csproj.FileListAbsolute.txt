@@ -1,0 +1,16 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\bin\Debug\netcoreapp3.1\CalcExe.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\bin\Debug\netcoreapp3.1\CalcExe.deps.json
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\bin\Debug\netcoreapp3.1\CalcExe.runtimeconfig.json
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\bin\Debug\netcoreapp3.1\CalcExe.runtimeconfig.dev.json
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\bin\Debug\netcoreapp3.1\CalcExe.dll
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\bin\Debug\netcoreapp3.1\CalcExe.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\bin\Debug\netcoreapp3.1\CalcLib.dll
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\bin\Debug\netcoreapp3.1\CalcLib.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\obj\Debug\netcoreapp3.1\CalcExe.csprojAssemblyReference.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\obj\Debug\netcoreapp3.1\CalcExe.AssemblyInfoInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\obj\Debug\netcoreapp3.1\CalcExe.AssemblyInfo.cs
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\obj\Debug\netcoreapp3.1\CalcExe.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\obj\Debug\netcoreapp3.1\CalcExe.csproj.CopyComplete
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\obj\Debug\netcoreapp3.1\CalcExe.dll
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\obj\Debug\netcoreapp3.1\CalcExe.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcExe\obj\Debug\netcoreapp3.1\CalcExe.genruntimeconfig.cache

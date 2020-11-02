@@ -1,0 +1,9 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcLib\bin\Debug\netstandard2.0\CalcLib.deps.json
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcLib\bin\Debug\netstandard2.0\CalcLib.dll
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcLib\bin\Debug\netstandard2.0\CalcLib.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.csprojAssemblyReference.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.AssemblyInfoInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.AssemblyInfo.cs
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.dll
+D:\수업파일\비트캠프 c#언어\csharp_lecture\CalcLib\obj\Debug\netstandard2.0\CalcLib.pdb

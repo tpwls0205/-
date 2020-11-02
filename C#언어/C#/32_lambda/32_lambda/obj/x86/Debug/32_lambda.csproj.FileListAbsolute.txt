@@ -1,0 +1,5 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\32_lambda\32_lambda\bin\Debug\32_lambda.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\32_lambda\32_lambda\bin\Debug\32_lambda.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\32_lambda\32_lambda\obj\x86\Debug\32_lambda.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\32_lambda\32_lambda\obj\x86\Debug\32_lambda.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\32_lambda\32_lambda\obj\x86\Debug\32_lambda.pdb

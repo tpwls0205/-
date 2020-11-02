@@ -1,0 +1,6 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\35_Linq\35_Linq\bin\Debug\35_Linq.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\35_Linq\35_Linq\bin\Debug\35_Linq.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\35_Linq\35_Linq\obj\x86\Debug\35_Linq.csprojAssemblyReference.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\35_Linq\35_Linq\obj\x86\Debug\35_Linq.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\35_Linq\35_Linq\obj\x86\Debug\35_Linq.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\35_Linq\35_Linq\obj\x86\Debug\35_Linq.pdb

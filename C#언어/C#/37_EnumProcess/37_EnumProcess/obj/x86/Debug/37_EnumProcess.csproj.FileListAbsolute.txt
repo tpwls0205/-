@@ -1,0 +1,5 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\37_EnumProcess\37_EnumProcess\bin\Debug\6_EnumProcess.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\37_EnumProcess\37_EnumProcess\bin\Debug\6_EnumProcess.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\37_EnumProcess\37_EnumProcess\obj\x86\Debug\37_EnumProcess.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\37_EnumProcess\37_EnumProcess\obj\x86\Debug\6_EnumProcess.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\37_EnumProcess\37_EnumProcess\obj\x86\Debug\6_EnumProcess.pdb

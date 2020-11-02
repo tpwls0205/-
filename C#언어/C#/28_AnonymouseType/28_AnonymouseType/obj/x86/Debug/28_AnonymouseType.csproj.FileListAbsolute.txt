@@ -1,0 +1,5 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\28_AnonymouseType\28_AnonymouseType\bin\Debug\28_AnonymouseType.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\28_AnonymouseType\28_AnonymouseType\bin\Debug\28_AnonymouseType.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\28_AnonymouseType\28_AnonymouseType\obj\x86\Debug\28_AnonymouseType.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\28_AnonymouseType\28_AnonymouseType\obj\x86\Debug\28_AnonymouseType.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\28_AnonymouseType\28_AnonymouseType\obj\x86\Debug\28_AnonymouseType.pdb

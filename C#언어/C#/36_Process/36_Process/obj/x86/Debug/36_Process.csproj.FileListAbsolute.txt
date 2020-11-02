@@ -1,0 +1,5 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\36_Process\36_Process\bin\Debug\5_Process.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\36_Process\36_Process\bin\Debug\5_Process.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\36_Process\36_Process\obj\x86\Debug\36_Process.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\36_Process\36_Process\obj\x86\Debug\5_Process.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\36_Process\36_Process\obj\x86\Debug\5_Process.pdb

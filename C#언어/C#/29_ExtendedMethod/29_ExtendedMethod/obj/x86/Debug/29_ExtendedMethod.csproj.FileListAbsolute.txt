@@ -1,0 +1,5 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\29_ExtendedMethod\29_ExtendedMethod\bin\Debug\29_ExtendedMethod.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\29_ExtendedMethod\29_ExtendedMethod\bin\Debug\29_ExtendedMethod.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\29_ExtendedMethod\29_ExtendedMethod\obj\x86\Debug\29_ExtendedMethod.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\29_ExtendedMethod\29_ExtendedMethod\obj\x86\Debug\29_ExtendedMethod.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\29_ExtendedMethod\29_ExtendedMethod\obj\x86\Debug\29_ExtendedMethod.pdb

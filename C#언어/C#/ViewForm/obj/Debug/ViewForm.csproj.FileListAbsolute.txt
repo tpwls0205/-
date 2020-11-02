@@ -1,0 +1,14 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\obj\Debug\ViewForm.csprojAssemblyReference.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\obj\Debug\ViewForm.Form1.resources
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\obj\Debug\ViewForm.Properties.Resources.resources
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\obj\Debug\ViewForm.csproj.GenerateResource.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\obj\Debug\ViewForm.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\bin\Debug\ViewForm.exe.config
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\bin\Debug\ViewForm.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\bin\Debug\ViewForm.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\bin\Debug\ImageForm.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\bin\Debug\ImageForm.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\bin\Debug\ImageForm.exe.config
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\obj\Debug\ViewForm.csproj.CopyComplete
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\obj\Debug\ViewForm.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ViewForm\obj\Debug\ViewForm.pdb

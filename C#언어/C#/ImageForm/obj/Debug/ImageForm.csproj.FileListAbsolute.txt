@@ -1,0 +1,11 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\bin\Debug\ImageForm.exe.config
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\bin\Debug\ImageForm.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\bin\Debug\ImageForm.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\obj\Debug\ImageForm.csprojAssemblyReference.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\obj\Debug\ImageForm.Dog.resources
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\obj\Debug\ImageForm.Form1.resources
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\obj\Debug\ImageForm.Properties.Resources.resources
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\obj\Debug\ImageForm.csproj.GenerateResource.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\obj\Debug\ImageForm.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\obj\Debug\ImageForm.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\ImageForm\obj\Debug\ImageForm.pdb
