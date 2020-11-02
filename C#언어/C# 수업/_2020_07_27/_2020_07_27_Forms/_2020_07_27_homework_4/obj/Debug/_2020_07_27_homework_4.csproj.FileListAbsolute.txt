@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\bin\Debug\_2020_07_27_homework_4.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\bin\Debug\_2020_07_27_homework_4.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\bin\Debug\_2020_07_27_homework_4.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\obj\Debug\_2020_07_27_homework_4.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\obj\Debug\_2020_07_27_homework_4.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\obj\Debug\_2020_07_27_homework_4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\obj\Debug\_2020_07_27_homework_4.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\obj\Debug\_2020_07_27_homework_4.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\obj\Debug\_2020_07_27_homework_4.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_2020_07_27_homework_4\obj\Debug\_2020_07_27_homework_4.csprojAssemblyReference.cache

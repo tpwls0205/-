@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_39_MemoText\bin\Debug\_39_MemoText.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_39_MemoText\bin\Debug\_39_MemoText.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_39_MemoText\bin\Debug\_39_MemoText.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_39_MemoText\obj\Debug\_39_MemoText.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\bin\Debug\_40_Serialize.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\bin\Debug\_40_Serialize.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\bin\Debug\_40_Serialize.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_40_Serialize\obj\Debug\_40_Serialize.pdb

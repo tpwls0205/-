@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_38_FileStream\bin\Debug\_38_FileStream.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_38_FileStream\bin\Debug\_38_FileStream.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_38_FileStream\bin\Debug\_38_FileStream.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_38_FileStream\obj\Debug\_38_FileStream.pdb

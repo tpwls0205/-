@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\bin\Debug\_33_ModelessForm.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\bin\Debug\_33_ModelessForm.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\bin\Debug\_33_ModelessForm.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\obj\Debug\_33_ModelessForm.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\obj\Debug\_33_ModelessForm.MyForm.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\obj\Debug\_33_ModelessForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\obj\Debug\_33_ModelessForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\obj\Debug\_33_ModelessForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\obj\Debug\_33_ModelessForm.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_33_ModelessForm\obj\Debug\_33_ModelessForm.pdb

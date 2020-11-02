@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\bin\Debug\_30_ListView.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\bin\Debug\_30_ListView.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\bin\Debug\_30_ListView.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\obj\Debug\_30_ListView.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\obj\Debug\_30_ListView.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\obj\Debug\_30_ListView.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\obj\Debug\_30_ListView.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\obj\Debug\_30_ListView.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\obj\Debug\_30_ListView.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_29\_2020_07_29_Forms\_30_ListView\obj\Debug\_30_ListView.pdb

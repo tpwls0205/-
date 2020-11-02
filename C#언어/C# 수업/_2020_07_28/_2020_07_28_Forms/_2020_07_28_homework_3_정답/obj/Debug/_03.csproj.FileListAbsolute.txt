@@ -1,0 +1,8 @@
+D:\study\_28\homw\_28\_03\bin\Debug\_03.exe.config
+D:\study\_28\homw\_28\_03\bin\Debug\_03.exe
+D:\study\_28\homw\_28\_03\bin\Debug\_03.pdb
+D:\study\_28\homw\_28\_03\obj\Debug\_03.Properties.Resources.resources
+D:\study\_28\homw\_28\_03\obj\Debug\_03.csproj.GenerateResource.cache
+D:\study\_28\homw\_28\_03\obj\Debug\_03.csproj.CoreCompileInputs.cache
+D:\study\_28\homw\_28\_03\obj\Debug\_03.exe
+D:\study\_28\homw\_28\_03\obj\Debug\_03.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\bin\Debug\_29_Circle.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\bin\Debug\_29_Circle.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\bin\Debug\_29_Circle.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_27\_2020_07_27_Forms\_29_Circle\obj\Debug\_29_Circle.pdb
