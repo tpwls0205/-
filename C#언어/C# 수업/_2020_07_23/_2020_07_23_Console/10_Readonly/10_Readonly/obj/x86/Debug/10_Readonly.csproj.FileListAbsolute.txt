@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\10_Readonly\10_Readonly\bin\Debug\10_Readonly.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\10_Readonly\10_Readonly\bin\Debug\10_Readonly.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\10_Readonly\10_Readonly\obj\x86\Debug\10_Readonly.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\10_Readonly\10_Readonly\obj\x86\Debug\10_Readonly.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\10_Readonly\10_Readonly\obj\x86\Debug\10_Readonly.pdb

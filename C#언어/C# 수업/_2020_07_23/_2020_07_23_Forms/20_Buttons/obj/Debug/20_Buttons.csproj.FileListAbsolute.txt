@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\bin\Debug\20_Buttons.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\bin\Debug\20_Buttons.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\bin\Debug\20_Buttons.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\obj\Debug\20_Buttons.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\obj\Debug\_20_Buttons.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\obj\Debug\_20_Buttons.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\obj\Debug\20_Buttons.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\obj\Debug\20_Buttons.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\obj\Debug\20_Buttons.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\20_Buttons\obj\Debug\20_Buttons.pdb

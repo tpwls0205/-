@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\16_newMethod\16_newMethod\bin\Debug\16_newMethod.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\16_newMethod\16_newMethod\bin\Debug\16_newMethod.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\16_newMethod\16_newMethod\obj\x86\Debug\16_newMethod.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\16_newMethod\16_newMethod\obj\x86\Debug\16_newMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\16_newMethod\16_newMethod\obj\x86\Debug\16_newMethod.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\16_newMethod\16_newMethod\obj\x86\Debug\16_newMethod.pdb

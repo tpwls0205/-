@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\2_OperatorPlusPlus\2_OperatorPlusPlus\bin\Debug\2_OperatorPlusPlus.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\2_OperatorPlusPlus\2_OperatorPlusPlus\bin\Debug\2_OperatorPlusPlus.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\2_OperatorPlusPlus\2_OperatorPlusPlus\obj\x86\Debug\2_OperatorPlusPlus.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\2_OperatorPlusPlus\2_OperatorPlusPlus\obj\x86\Debug\2_OperatorPlusPlus.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\2_OperatorPlusPlus\2_OperatorPlusPlus\obj\x86\Debug\2_OperatorPlusPlus.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\2_OperatorPlusPlus\2_OperatorPlusPlus\obj\x86\Debug\2_OperatorPlusPlus.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\2_OperatorPlusPlus\2_OperatorPlusPlus\bin\Debug\2_OperatorPlusPlus.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\2_OperatorPlusPlus\2_OperatorPlusPlus\bin\Debug\2_OperatorPlusPlus.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\2_OperatorPlusPlus\2_OperatorPlusPlus\obj\x86\Debug\2_OperatorPlusPlus.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\2_OperatorPlusPlus\2_OperatorPlusPlus\obj\x86\Debug\2_OperatorPlusPlus.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\2_OperatorPlusPlus\2_OperatorPlusPlus\obj\x86\Debug\2_OperatorPlusPlus.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\2_OperatorPlusPlus\2_OperatorPlusPlus\obj\x86\Debug\2_OperatorPlusPlus.pdb

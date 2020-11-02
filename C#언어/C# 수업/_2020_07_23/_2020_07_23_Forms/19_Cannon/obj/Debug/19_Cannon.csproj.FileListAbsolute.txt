@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\19_Cannon\bin\Debug\19_Cannon.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\19_Cannon\bin\Debug\19_Cannon.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\19_Cannon\bin\Debug\19_Cannon.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\19_Cannon\obj\Debug\19_Cannon.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\19_Cannon\obj\Debug\_19_Cannon.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\19_Cannon\obj\Debug\19_Cannon.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\19_Cannon\obj\Debug\19_Cannon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\19_Cannon\obj\Debug\19_Cannon.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Forms\19_Cannon\obj\Debug\19_Cannon.pdb

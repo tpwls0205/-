@@ -1,0 +1,9 @@
+D:\_23_07\_23_homework\_04\bin\Debug\_04.exe.config
+D:\_23_07\_23_homework\_04\bin\Debug\_04.exe
+D:\_23_07\_23_homework\_04\bin\Debug\_04.pdb
+D:\_23_07\_23_homework\_04\obj\Debug\_04.Form1.resources
+D:\_23_07\_23_homework\_04\obj\Debug\_04.Properties.Resources.resources
+D:\_23_07\_23_homework\_04\obj\Debug\_04.csproj.GenerateResource.cache
+D:\_23_07\_23_homework\_04\obj\Debug\_04.csproj.CoreCompileInputs.cache
+D:\_23_07\_23_homework\_04\obj\Debug\_04.exe
+D:\_23_07\_23_homework\_04\obj\Debug\_04.pdb

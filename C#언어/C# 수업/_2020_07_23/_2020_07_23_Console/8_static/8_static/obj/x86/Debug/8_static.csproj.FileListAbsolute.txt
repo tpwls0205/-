@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\8_static\8_static\bin\Debug\8_static.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\8_static\8_static\bin\Debug\8_static.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\8_static\8_static\obj\x86\Debug\8_static.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\8_static\8_static\obj\x86\Debug\8_static.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\8_static\8_static\obj\x86\Debug\8_static.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\8_static\8_static\obj\x86\Debug\8_static.pdb

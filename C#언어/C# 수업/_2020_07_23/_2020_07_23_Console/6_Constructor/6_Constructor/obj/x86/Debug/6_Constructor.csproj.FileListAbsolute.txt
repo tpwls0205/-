@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\6_Constructor\6_Constructor\bin\Debug\6_Constructor.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\6_Constructor\6_Constructor\bin\Debug\6_Constructor.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\6_Constructor\6_Constructor\obj\x86\Debug\6_Constructor.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\6_Constructor\6_Constructor\obj\x86\Debug\6_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\6_Constructor\6_Constructor\obj\x86\Debug\6_Constructor.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\6_Constructor\6_Constructor\obj\x86\Debug\6_Constructor.pdb

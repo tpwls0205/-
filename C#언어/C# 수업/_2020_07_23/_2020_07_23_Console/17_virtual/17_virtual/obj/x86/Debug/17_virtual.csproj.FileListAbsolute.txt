@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\17_virtual\17_virtual\bin\Debug\17_virtual.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\17_virtual\17_virtual\bin\Debug\17_virtual.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\17_virtual\17_virtual\obj\x86\Debug\17_virtual.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\17_virtual\17_virtual\obj\x86\Debug\17_virtual.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\17_virtual\17_virtual\obj\x86\Debug\17_virtual.pdb

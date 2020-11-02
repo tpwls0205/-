@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\200722_homework\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\200722_homework\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Admin\Desktop\200722_homework\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\200722_homework\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\200722_homework\Snake\bin\Debug\Snake.exe.config
+C:\Users\Admin\Desktop\200722_homework\Snake\bin\Debug\Snake.exe
+C:\Users\Admin\Desktop\200722_homework\Snake\bin\Debug\Snake.pdb
+C:\Users\Admin\Desktop\200722_homework\Snake\obj\Debug\Snake.exe
+C:\Users\Admin\Desktop\200722_homework\Snake\obj\Debug\Snake.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_22\_2020_07_22_homework_정답\Snake\bin\Debug\Snake.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_22\_2020_07_22_homework_정답\Snake\bin\Debug\Snake.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_22\_2020_07_22_homework_정답\Snake\bin\Debug\Snake.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_22\_2020_07_22_homework_정답\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_22\_2020_07_22_homework_정답\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_22\_2020_07_22_homework_정답\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_22\_2020_07_22_homework_정답\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_22\_2020_07_22_homework_정답\Snake\obj\Debug\Snake.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_22\_2020_07_22_homework_정답\Snake\obj\Debug\Snake.pdb

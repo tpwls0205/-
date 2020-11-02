@@ -1,0 +1,9 @@
+D:\_23_07\_23_homework\_02_re\obj\Debug\_02_re.Properties.Resources.resources
+D:\_23_07\_23_homework\_02_re\obj\Debug\_02_re.csproj.GenerateResource.cache
+D:\_23_07\_23_homework\_02_re\obj\Debug\_02_re.csproj.CoreCompileInputs.cache
+D:\_23_07\_23_homework\_02_re\bin\Debug\_02_re.exe.config
+D:\_23_07\_23_homework\_02_re\bin\Debug\_02_re.exe
+D:\_23_07\_23_homework\_02_re\bin\Debug\_02_re.pdb
+D:\_23_07\_23_homework\_02_re\obj\Debug\_02_re.exe
+D:\_23_07\_23_homework\_02_re\obj\Debug\_02_re.pdb
+D:\_23_07\_23_homework\_02_re\obj\Debug\_02_re.csprojAssemblyReference.cache

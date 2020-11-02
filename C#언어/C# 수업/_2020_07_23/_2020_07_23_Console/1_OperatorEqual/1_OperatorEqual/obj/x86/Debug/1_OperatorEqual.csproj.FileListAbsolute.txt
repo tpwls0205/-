@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\1_OperatorEqual\1_OperatorEqual\obj\x86\Debug\1_OperatorEqual.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\1_OperatorEqual\1_OperatorEqual\obj\x86\Debug\1_OperatorEqual.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\1_OperatorEqual\1_OperatorEqual\bin\Debug\1_OperatorEqual.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\1_OperatorEqual\1_OperatorEqual\bin\Debug\1_OperatorEqual.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\1_OperatorEqual\1_OperatorEqual\obj\x86\Debug\1_OperatorEqual.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\1_OperatorEqual\1_OperatorEqual\obj\x86\Debug\1_OperatorEqual.pdb

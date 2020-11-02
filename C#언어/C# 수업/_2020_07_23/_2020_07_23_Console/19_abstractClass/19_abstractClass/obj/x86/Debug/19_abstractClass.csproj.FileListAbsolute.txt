@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\19_abstractClass\19_abstractClass\bin\Debug\19_abstractClass.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\19_abstractClass\19_abstractClass\bin\Debug\19_abstractClass.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\19_abstractClass\19_abstractClass\obj\x86\Debug\19_abstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\19_abstractClass\19_abstractClass\obj\x86\Debug\19_abstractClass.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\19_abstractClass\19_abstractClass\obj\x86\Debug\19_abstractClass.pdb

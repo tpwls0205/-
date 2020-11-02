@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\18_Polymorphism\18_Polymorphism\bin\Debug\18_Polymorphism.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\18_Polymorphism\18_Polymorphism\bin\Debug\18_Polymorphism.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\18_Polymorphism\18_Polymorphism\obj\x86\Debug\18_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\18_Polymorphism\18_Polymorphism\obj\x86\Debug\18_Polymorphism.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\18_Polymorphism\18_Polymorphism\obj\x86\Debug\18_Polymorphism.pdb

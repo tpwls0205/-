@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\bin\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\bin\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\bin\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\bin\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\bin\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\bin\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\obj\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\obj\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\obj\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\obj\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\obj\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\obj\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_23\_2020_07_23_Console\_2020_07_23_homework_3-2\obj\Debug\netcoreapp3.1\_2020_07_23_homework_3-2.genruntimeconfig.cache
