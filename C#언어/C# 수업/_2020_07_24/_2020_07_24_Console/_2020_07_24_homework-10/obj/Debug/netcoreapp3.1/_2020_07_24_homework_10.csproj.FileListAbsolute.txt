@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\bin\Debug\netcoreapp3.1\_2020_07_24_homework_10.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\bin\Debug\netcoreapp3.1\_2020_07_24_homework_10.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\bin\Debug\netcoreapp3.1\_2020_07_24_homework_10.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\bin\Debug\netcoreapp3.1\_2020_07_24_homework_10.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\bin\Debug\netcoreapp3.1\_2020_07_24_homework_10.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\bin\Debug\netcoreapp3.1\_2020_07_24_homework_10.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\obj\Debug\netcoreapp3.1\_2020_07_24_homework_10.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\obj\Debug\netcoreapp3.1\_2020_07_24_homework_10.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\obj\Debug\netcoreapp3.1\_2020_07_24_homework_10.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\obj\Debug\netcoreapp3.1\_2020_07_24_homework_10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\obj\Debug\netcoreapp3.1\_2020_07_24_homework_10.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\obj\Debug\netcoreapp3.1\_2020_07_24_homework_10.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework-10\obj\Debug\netcoreapp3.1\_2020_07_24_homework_10.genruntimeconfig.cache

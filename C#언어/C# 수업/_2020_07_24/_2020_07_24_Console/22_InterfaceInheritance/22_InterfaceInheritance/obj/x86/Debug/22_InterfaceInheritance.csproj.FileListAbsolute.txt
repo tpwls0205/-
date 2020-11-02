@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\22_InterfaceInheritance\22_InterfaceInheritance\bin\Debug\22_InterfaceInheritance.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\22_InterfaceInheritance\22_InterfaceInheritance\bin\Debug\22_InterfaceInheritance.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\22_InterfaceInheritance\22_InterfaceInheritance\obj\x86\Debug\22_InterfaceInheritance.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\22_InterfaceInheritance\22_InterfaceInheritance\obj\x86\Debug\22_InterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\22_InterfaceInheritance\22_InterfaceInheritance\obj\x86\Debug\22_InterfaceInheritance.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\22_InterfaceInheritance\22_InterfaceInheritance\obj\x86\Debug\22_InterfaceInheritance.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\bin\Debug\netcoreapp3.1\_2020_07_24_homework_6.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\bin\Debug\netcoreapp3.1\_2020_07_24_homework_6.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\bin\Debug\netcoreapp3.1\_2020_07_24_homework_6.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\bin\Debug\netcoreapp3.1\_2020_07_24_homework_6.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\bin\Debug\netcoreapp3.1\_2020_07_24_homework_6.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\bin\Debug\netcoreapp3.1\_2020_07_24_homework_6.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\obj\Debug\netcoreapp3.1\_2020_07_24_homework_6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\obj\Debug\netcoreapp3.1\_2020_07_24_homework_6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\obj\Debug\netcoreapp3.1\_2020_07_24_homework_6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\obj\Debug\netcoreapp3.1\_2020_07_24_homework_6.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\obj\Debug\netcoreapp3.1\_2020_07_24_homework_6.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\obj\Debug\netcoreapp3.1\_2020_07_24_homework_6.genruntimeconfig.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Console\_2020_07_24_homework_6\obj\Debug\netcoreapp3.1\_2020_07_24_homework_6.csprojAssemblyReference.cache

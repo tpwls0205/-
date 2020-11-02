@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_28_Splitter\bin\Debug\_28_Splitter.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_28_Splitter\bin\Debug\_28_Splitter.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_28_Splitter\bin\Debug\_28_Splitter.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_28_Splitter\obj\Debug\_28_Splitter.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_28_Splitter\obj\Debug\_28_Splitter.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_28_Splitter\obj\Debug\_28_Splitter.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_28_Splitter\obj\Debug\_28_Splitter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_28_Splitter\obj\Debug\_28_Splitter.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_28_Splitter\obj\Debug\_28_Splitter.pdb

@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\200724_homework\Omok\bin\Debug\Omok.exe.config
+C:\Users\Admin\Desktop\200724_homework\Omok\bin\Debug\Omok.exe
+C:\Users\Admin\Desktop\200724_homework\Omok\bin\Debug\Omok.pdb
+C:\Users\Admin\Desktop\200724_homework\Omok\obj\Debug\Omok.Properties.Resources.resources
+C:\Users\Admin\Desktop\200724_homework\Omok\obj\Debug\Omok.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\200724_homework\Omok\obj\Debug\Omok.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\200724_homework\Omok\obj\Debug\Omok.exe
+C:\Users\Admin\Desktop\200724_homework\Omok\obj\Debug\Omok.pdb
+C:\Users\Admin\Desktop\200724_homework\Omok\obj\Debug\Omok.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Omok\obj\Debug\Omok.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Omok\obj\Debug\Omok.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Omok\obj\Debug\Omok.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Omok\obj\Debug\Omok.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Omok\obj\Debug\Omok.exe
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Omok\obj\Debug\Omok.pdb
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Omok\bin\Debug\Omok.exe.config
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Omok\bin\Debug\Omok.exe
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Omok\bin\Debug\Omok.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Omok\bin\Debug\Omok.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Omok\bin\Debug\Omok.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Omok\bin\Debug\Omok.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Omok\obj\Debug\Omok.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Omok\obj\Debug\Omok.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Omok\obj\Debug\Omok.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Omok\obj\Debug\Omok.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Omok\obj\Debug\Omok.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Omok\obj\Debug\Omok.pdb

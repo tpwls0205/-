@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\bin\Debug\23_radio_checkbox.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\bin\Debug\23_radio_checkbox.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\bin\Debug\23_radio_checkbox.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\obj\Debug\23_radio_checkbox.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\obj\Debug\_23_radio_checkbox.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\obj\Debug\_23_radio_checkbox.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\obj\Debug\23_radio_checkbox.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\obj\Debug\23_radio_checkbox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\obj\Debug\23_radio_checkbox.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\23_radio_checkbox\obj\Debug\23_radio_checkbox.pdb

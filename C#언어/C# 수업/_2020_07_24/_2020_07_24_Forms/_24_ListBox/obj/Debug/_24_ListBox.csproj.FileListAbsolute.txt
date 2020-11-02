@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\bin\Debug\_24_ListBox.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\bin\Debug\_24_ListBox.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\bin\Debug\_24_ListBox.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_Forms\_24_ListBox\obj\Debug\_24_ListBox.pdb

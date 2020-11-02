@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\200724_homework\FillGridNoOver\bin\Debug\FillGridNoOver.exe.config
+C:\Users\Admin\Desktop\200724_homework\FillGridNoOver\bin\Debug\FillGridNoOver.exe
+C:\Users\Admin\Desktop\200724_homework\FillGridNoOver\bin\Debug\FillGridNoOver.pdb
+C:\Users\Admin\Desktop\200724_homework\FillGridNoOver\obj\Debug\FillGridNoOver.Properties.Resources.resources
+C:\Users\Admin\Desktop\200724_homework\FillGridNoOver\obj\Debug\FillGridNoOver.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\200724_homework\FillGridNoOver\obj\Debug\FillGridNoOver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\200724_homework\FillGridNoOver\obj\Debug\FillGridNoOver.exe
+C:\Users\Admin\Desktop\200724_homework\FillGridNoOver\obj\Debug\FillGridNoOver.pdb

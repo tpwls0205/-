@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.exe
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.deps.json
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.runtimeconfig.json
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.dll
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.pdb
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.dll
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.pdb
+C:\Users\Admin\Desktop\Bitcamp\수업\C#\200724_homework\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\bin\Debug\netcoreapp3.1\ConsoleProblem.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_24\_2020_07_24_오목정답\Console\obj\Debug\netcoreapp3.1\ConsoleProblem.genruntimeconfig.cache
