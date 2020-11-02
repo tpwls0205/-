@@ -1,0 +1,5 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\25_Chogija\25_Chogija\bin\Debug\25_Chogija.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\25_Chogija\25_Chogija\bin\Debug\25_Chogija.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\25_Chogija\25_Chogija\obj\x86\Debug\25_Chogija.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\25_Chogija\25_Chogija\obj\x86\Debug\25_Chogija.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\25_Chogija\25_Chogija\obj\x86\Debug\25_Chogija.pdb

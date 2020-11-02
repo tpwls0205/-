@@ -1,0 +1,6 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\23_varType\23_varType\bin\Debug\23_varType.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\23_varType\23_varType\bin\Debug\23_varType.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\23_varType\23_varType\obj\x86\Debug\23_varType.csprojAssemblyReference.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\23_varType\23_varType\obj\x86\Debug\23_varType.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\23_varType\23_varType\obj\x86\Debug\23_varType.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\23_varType\23_varType\obj\x86\Debug\23_varType.pdb
