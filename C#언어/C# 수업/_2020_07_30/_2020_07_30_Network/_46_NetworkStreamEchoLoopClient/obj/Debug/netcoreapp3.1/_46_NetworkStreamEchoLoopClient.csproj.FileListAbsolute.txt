@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\bin\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_46_NetworkStreamEchoLoopClient\obj\Debug\netcoreapp3.1\_46_NetworkStreamEchoLoopClient.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\bin\Debug\netcoreapp3.1\_55_Thread_Stop.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_55_Thread_Stop\obj\Debug\netcoreapp3.1\_55_Thread_Stop.genruntimeconfig.cache

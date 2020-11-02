@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\bin\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_48_NetworkStreamAddConnectCommentClient\obj\Debug\netcoreapp3.1\_48_NetworkStreamAddConnectCommentClient.genruntimeconfig.cache

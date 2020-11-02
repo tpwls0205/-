@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\bin\Debug\netcoreapp3.1\_54_Thread_Abort.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\bin\Debug\netcoreapp3.1\_54_Thread_Abort.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\bin\Debug\netcoreapp3.1\_54_Thread_Abort.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\bin\Debug\netcoreapp3.1\_54_Thread_Abort.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\bin\Debug\netcoreapp3.1\_54_Thread_Abort.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\bin\Debug\netcoreapp3.1\_54_Thread_Abort.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\obj\Debug\netcoreapp3.1\_54_Thread_Abort.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\obj\Debug\netcoreapp3.1\_54_Thread_Abort.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\obj\Debug\netcoreapp3.1\_54_Thread_Abort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\obj\Debug\netcoreapp3.1\_54_Thread_Abort.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\obj\Debug\netcoreapp3.1\_54_Thread_Abort.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_54_Thread_Abort\obj\Debug\netcoreapp3.1\_54_Thread_Abort.genruntimeconfig.cache

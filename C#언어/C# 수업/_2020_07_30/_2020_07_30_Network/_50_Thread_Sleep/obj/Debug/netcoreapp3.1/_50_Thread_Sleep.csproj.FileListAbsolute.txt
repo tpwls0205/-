@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\bin\Debug\netcoreapp3.1\_50_Thread_Sleep.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_50_Thread_Sleep\obj\Debug\netcoreapp3.1\_50_Thread_Sleep.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\bin\Debug\netcoreapp3.1\_60_Monitor.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\bin\Debug\netcoreapp3.1\_60_Monitor.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\bin\Debug\netcoreapp3.1\_60_Monitor.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\bin\Debug\netcoreapp3.1\_60_Monitor.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\bin\Debug\netcoreapp3.1\_60_Monitor.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\bin\Debug\netcoreapp3.1\_60_Monitor.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\obj\Debug\netcoreapp3.1\_60_Monitor.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\obj\Debug\netcoreapp3.1\_60_Monitor.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\obj\Debug\netcoreapp3.1\_60_Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\obj\Debug\netcoreapp3.1\_60_Monitor.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\obj\Debug\netcoreapp3.1\_60_Monitor.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_60_Monitor\obj\Debug\netcoreapp3.1\_60_Monitor.genruntimeconfig.cache

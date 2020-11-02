@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\bin\Debug\netcoreapp3.1\_57_ThreadLock.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\bin\Debug\netcoreapp3.1\_57_ThreadLock.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\bin\Debug\netcoreapp3.1\_57_ThreadLock.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\bin\Debug\netcoreapp3.1\_57_ThreadLock.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\bin\Debug\netcoreapp3.1\_57_ThreadLock.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\bin\Debug\netcoreapp3.1\_57_ThreadLock.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\obj\Debug\netcoreapp3.1\_57_ThreadLock.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\obj\Debug\netcoreapp3.1\_57_ThreadLock.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\obj\Debug\netcoreapp3.1\_57_ThreadLock.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\obj\Debug\netcoreapp3.1\_57_ThreadLock.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\obj\Debug\netcoreapp3.1\_57_ThreadLock.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_57_ThreadLock\obj\Debug\netcoreapp3.1\_57_ThreadLock.genruntimeconfig.cache

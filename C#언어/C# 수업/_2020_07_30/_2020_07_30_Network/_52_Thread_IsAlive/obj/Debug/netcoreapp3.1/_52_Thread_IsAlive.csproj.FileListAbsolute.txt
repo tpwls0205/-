@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\bin\Debug\netcoreapp3.1\_52_Thread_IsAlive.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_52_Thread_IsAlive\obj\Debug\netcoreapp3.1\_52_Thread_IsAlive.genruntimeconfig.cache

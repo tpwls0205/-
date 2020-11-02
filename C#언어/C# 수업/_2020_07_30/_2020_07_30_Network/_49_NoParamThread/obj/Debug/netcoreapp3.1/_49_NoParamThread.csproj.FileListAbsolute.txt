@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\bin\Debug\netcoreapp3.1\_49_NoParamThread.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\bin\Debug\netcoreapp3.1\_49_NoParamThread.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\bin\Debug\netcoreapp3.1\_49_NoParamThread.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\bin\Debug\netcoreapp3.1\_49_NoParamThread.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\bin\Debug\netcoreapp3.1\_49_NoParamThread.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\bin\Debug\netcoreapp3.1\_49_NoParamThread.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\obj\Debug\netcoreapp3.1\_49_NoParamThread.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\obj\Debug\netcoreapp3.1\_49_NoParamThread.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\obj\Debug\netcoreapp3.1\_49_NoParamThread.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\obj\Debug\netcoreapp3.1\_49_NoParamThread.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\obj\Debug\netcoreapp3.1\_49_NoParamThread.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_49_NoParamThread\obj\Debug\netcoreapp3.1\_49_NoParamThread.genruntimeconfig.cache

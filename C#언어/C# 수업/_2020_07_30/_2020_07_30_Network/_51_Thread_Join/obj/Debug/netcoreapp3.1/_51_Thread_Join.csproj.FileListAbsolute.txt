@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\bin\Debug\netcoreapp3.1\_51_Thread_Join.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_51_Thread_Join\obj\Debug\netcoreapp3.1\_51_Thread_Join.genruntimeconfig.cache

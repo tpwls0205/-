@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\bin\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\bin\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\bin\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\bin\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\bin\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\bin\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\obj\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\obj\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\obj\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\obj\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\obj\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_47_NetworkStreamLoopAcceptServer\obj\Debug\netcoreapp3.1\_47_NetworkStreamLoopAcceptServer.genruntimeconfig.cache

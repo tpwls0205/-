@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_62_RunThreadImage\bin\Debug\_14_RunThreadImage.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_62_RunThreadImage\bin\Debug\_14_RunThreadImage.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_62_RunThreadImage\obj\Debug\_62_RunThreadImage.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_62_RunThreadImage\obj\Debug\_14_RunThreadImage.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_62_RunThreadImage\obj\Debug\_14_RunThreadImage.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_62_RunThreadImage\obj\Debug\_62_RunThreadImage.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_62_RunThreadImage\obj\Debug\_62_RunThreadImage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_62_RunThreadImage\obj\Debug\_14_RunThreadImage.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_62_RunThreadImage\obj\Debug\_14_RunThreadImage.pdb

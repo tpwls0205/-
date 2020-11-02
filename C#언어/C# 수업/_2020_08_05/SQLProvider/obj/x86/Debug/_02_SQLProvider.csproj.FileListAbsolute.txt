@@ -1,0 +1,9 @@
+C:\Lecture\_5_CSharp\_2019_08_21\_02_SQLProvider\obj\x86\Debug\_02_SQLProvider.Form1.resources
+C:\Lecture\_5_CSharp\_2019_08_21\_02_SQLProvider\obj\x86\Debug\_02_SQLProvider.Properties.Resources.resources
+C:\Lecture\_5_CSharp\_2019_08_21\_02_SQLProvider\obj\x86\Debug\_02_SQLProvider.csproj.GenerateResource.cache
+C:\Lecture\_5_CSharp\_2019_08_21\_02_SQLProvider\obj\x86\Debug\_02_SQLProvider.csproj.CoreCompileInputs.cache
+C:\Lecture\_5_CSharp\_2019_08_21\_02_SQLProvider\bin\Debug\_02_SQLProvider.exe.config
+C:\Lecture\_5_CSharp\_2019_08_21\_02_SQLProvider\bin\Debug\_02_SQLProvider.exe
+C:\Lecture\_5_CSharp\_2019_08_21\_02_SQLProvider\bin\Debug\_02_SQLProvider.pdb
+C:\Lecture\_5_CSharp\_2019_08_21\_02_SQLProvider\obj\x86\Debug\_02_SQLProvider.exe
+C:\Lecture\_5_CSharp\_2019_08_21\_02_SQLProvider\obj\x86\Debug\_02_SQLProvider.pdb

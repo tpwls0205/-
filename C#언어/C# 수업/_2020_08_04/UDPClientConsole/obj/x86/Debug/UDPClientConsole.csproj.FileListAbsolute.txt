@@ -1,0 +1,18 @@
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\bin\Debug\UDPClientConsole.exe
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\bin\Debug\UDPClientConsole.pdb
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\obj\x86\Debug\UDPClientConsole.exe
+D:\Writing a book\Real C#\Exercise\UDPClientConsole\UDPClientConsole\obj\x86\Debug\UDPClientConsole.pdb
+D:\Part-time job\Writing a book\Real C#\완성본\2015.10.21\Source code\8장\Example_8_20_Console 기반 UDP 클라이언트 만들기\UDPClientConsole\obj\x86\Debug\UDPClientConsole.pdb
+D:\Share\CSharpLecture\lecture\_2020_08_04\UDPClientConsole\bin\Debug\UDPClientConsole.exe
+D:\Share\CSharpLecture\lecture\_2020_08_04\UDPClientConsole\bin\Debug\UDPClientConsole.pdb
+D:\Share\CSharpLecture\lecture\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.csprojAssemblyReference.cache
+D:\Share\CSharpLecture\lecture\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.exe
+D:\Share\CSharpLecture\lecture\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_04\UDPClientConsole\bin\Debug\UDPClientConsole.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_04\UDPClientConsole\bin\Debug\UDPClientConsole.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_04\UDPClientConsole\obj\x86\Debug\UDPClientConsole.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\bin\Debug\_02_SQLProvider.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\bin\Debug\_02_SQLProvider.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\bin\Debug\_02_SQLProvider.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\obj\x86\Debug\SQLProvider.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\obj\x86\Debug\_02_SQLProvider.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\obj\x86\Debug\_02_SQLProvider.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\obj\x86\Debug\SQLProvider.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\obj\x86\Debug\SQLProvider.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\obj\x86\Debug\_02_SQLProvider.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_05\SQLProvider\obj\x86\Debug\_02_SQLProvider.pdb

@@ -1,0 +1,16 @@
+D:\Share\CSharpLecture\lecture\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+D:\Share\CSharpLecture\lecture\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+D:\Share\CSharpLecture\lecture\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Form1.resources
+D:\Share\CSharpLecture\lecture\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+D:\Share\CSharpLecture\lecture\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_70_NetworkStreamClientForm.csproj.GenerateResource.cache
+D:\Share\CSharpLecture\lecture\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_70_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+D:\Share\CSharpLecture\lecture\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\bin\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_70_NetworkStreamClientForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_70_NetworkStreamClientForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_16_NetworkStreamClientForm.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_08_03\_2020_08_03_Network\_70_NetworkStreamClientForm\obj\Debug\_70_NetworkStreamClientForm.Form1.resources

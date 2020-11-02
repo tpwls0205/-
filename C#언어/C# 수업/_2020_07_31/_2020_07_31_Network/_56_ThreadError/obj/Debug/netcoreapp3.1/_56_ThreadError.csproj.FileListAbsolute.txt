@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\bin\Debug\netcoreapp3.1\_56_ThreadError.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_31\_2020_07_31_Network\_56_ThreadError\obj\Debug\netcoreapp3.1\_56_ThreadError.genruntimeconfig.cache

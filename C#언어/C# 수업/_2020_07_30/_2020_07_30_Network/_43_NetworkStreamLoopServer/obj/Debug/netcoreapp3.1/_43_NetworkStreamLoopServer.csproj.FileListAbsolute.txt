@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\bin\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_30\_2020_07_30_Console\_43_NetworkStreamLoopServer\obj\Debug\netcoreapp3.1\_43_NetworkStreamLoopServer.genruntimeconfig.cache
