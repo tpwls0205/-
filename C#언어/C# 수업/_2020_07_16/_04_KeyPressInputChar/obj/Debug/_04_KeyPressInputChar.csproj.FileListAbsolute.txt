@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_04_KeyPressInputChar\bin\Debug\_04_KeyPressInputChar.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_04_KeyPressInputChar\bin\Debug\_04_KeyPressInputChar.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_04_KeyPressInputChar\bin\Debug\_04_KeyPressInputChar.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_04_KeyPressInputChar\obj\Debug\_04_KeyPressInputChar.pdb

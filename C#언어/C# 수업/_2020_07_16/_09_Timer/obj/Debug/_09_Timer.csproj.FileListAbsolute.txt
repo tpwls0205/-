@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_09_Timer\bin\Debug\_09_Timer.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_09_Timer\bin\Debug\_09_Timer.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_09_Timer\bin\Debug\_09_Timer.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_09_Timer\obj\Debug\_09_Timer.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_09_Timer\obj\Debug\_09_Timer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_09_Timer\obj\Debug\_09_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_09_Timer\obj\Debug\_09_Timer.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_09_Timer\obj\Debug\_09_Timer.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_09_Timer\obj\Debug\_09_Timer.Form1.resources

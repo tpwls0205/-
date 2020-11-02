@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_10_MoveEllipseTimer\bin\Debug\_10_MoveEllipseTimer.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_10_MoveEllipseTimer\bin\Debug\_10_MoveEllipseTimer.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_10_MoveEllipseTimer\bin\Debug\_10_MoveEllipseTimer.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_10_MoveEllipseTimer\obj\Debug\_10_MoveEllipseTimer.pdb

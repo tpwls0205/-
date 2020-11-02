@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_07_DrawEllipse\bin\Debug\_07_DrawEllipse.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_07_DrawEllipse\bin\Debug\_07_DrawEllipse.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_07_DrawEllipse\bin\Debug\_07_DrawEllipse.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_07_DrawEllipse\obj\Debug\_07_DrawEllipse.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_07_DrawEllipse\obj\Debug\_07_DrawEllipse.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_07_DrawEllipse\obj\Debug\_07_DrawEllipse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_07_DrawEllipse\obj\Debug\_07_DrawEllipse.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_16\_07_DrawEllipse\obj\Debug\_07_DrawEllipse.pdb
