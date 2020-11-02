@@ -1,0 +1,6 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\18_GenericDictionary\18_GenericDictionary\bin\Debug\18_GenericDictionary.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\18_GenericDictionary\18_GenericDictionary\bin\Debug\18_GenericDictionary.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\18_GenericDictionary\18_GenericDictionary\obj\x86\Debug\18_GenericDictionary.csprojAssemblyReference.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\18_GenericDictionary\18_GenericDictionary\obj\x86\Debug\18_GenericDictionary.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\18_GenericDictionary\18_GenericDictionary\obj\x86\Debug\18_GenericDictionary.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\18_GenericDictionary\18_GenericDictionary\obj\x86\Debug\18_GenericDictionary.pdb

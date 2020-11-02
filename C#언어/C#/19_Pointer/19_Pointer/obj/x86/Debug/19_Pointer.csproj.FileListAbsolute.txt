@@ -1,0 +1,5 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\19_Pointer\19_Pointer\bin\Debug\19_Pointer.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\19_Pointer\19_Pointer\bin\Debug\19_Pointer.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\19_Pointer\19_Pointer\obj\x86\Debug\19_Pointer.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\19_Pointer\19_Pointer\obj\x86\Debug\19_Pointer.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\19_Pointer\19_Pointer\obj\x86\Debug\19_Pointer.pdb
