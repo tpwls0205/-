@@ -1,0 +1,25 @@
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.exe
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.deps.json
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.runtimeconfig.json
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.runtimeconfig.dev.json
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.dll
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.AssemblyInfoInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.AssemblyInfo.cs
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.csproj.CoreCompileInputs.cache
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.dll
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.pdb
+D:\Share\CSharpLecture\lecture\_2020_07_20\_2020_07_20_Console\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.genruntimeconfig.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\bin\Debug\netcoreapp3.1\1_dataType.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\1_dataType\obj\Debug\netcoreapp3.1\1_dataType.genruntimeconfig.cache

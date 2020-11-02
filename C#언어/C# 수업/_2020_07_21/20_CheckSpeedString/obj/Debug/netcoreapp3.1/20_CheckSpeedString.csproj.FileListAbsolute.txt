@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\bin\Debug\netcoreapp3.1\20_CheckSpeedString.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\20_CheckSpeedString\obj\Debug\netcoreapp3.1\20_CheckSpeedString.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_13_TextureBrush\bin\Debug\_13_TextureBrush.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_13_TextureBrush\bin\Debug\_13_TextureBrush.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_13_TextureBrush\bin\Debug\_13_TextureBrush.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_13_TextureBrush\obj\Debug\_13_TextureBrush.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_13_TextureBrush\obj\Debug\_13_TextureBrush.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_13_TextureBrush\obj\Debug\_13_TextureBrush.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_13_TextureBrush\obj\Debug\_13_TextureBrush.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_13_TextureBrush\obj\Debug\_13_TextureBrush.pdb

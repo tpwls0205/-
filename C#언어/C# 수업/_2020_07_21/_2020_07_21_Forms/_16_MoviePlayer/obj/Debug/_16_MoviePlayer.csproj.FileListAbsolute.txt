@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\bin\Debug\_16_MoviePlayer.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\bin\Debug\_16_MoviePlayer.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\bin\Debug\_16_MoviePlayer.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\obj\Debug\_16_MoviePlayer.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\obj\Debug\_16_MoviePlayer.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\obj\Debug\_16_MoviePlayer.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\obj\Debug\_16_MoviePlayer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\obj\Debug\_16_MoviePlayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\obj\Debug\_16_MoviePlayer.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_16_MoviePlayer\obj\Debug\_16_MoviePlayer.pdb

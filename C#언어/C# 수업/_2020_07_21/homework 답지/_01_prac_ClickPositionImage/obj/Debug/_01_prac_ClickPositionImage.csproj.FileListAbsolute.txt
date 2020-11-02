@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_01_prac_ClickPositionImage\bin\Debug\_01_prac_ClickPositionImage.exe.config
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_01_prac_ClickPositionImage\bin\Debug\_01_prac_ClickPositionImage.exe
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_01_prac_ClickPositionImage\bin\Debug\_01_prac_ClickPositionImage.pdb
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_01_prac_ClickPositionImage\obj\Debug\_01_prac_ClickPositionImage.Properties.Resources.resources
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_01_prac_ClickPositionImage\obj\Debug\_01_prac_ClickPositionImage.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_01_prac_ClickPositionImage\obj\Debug\_01_prac_ClickPositionImage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_01_prac_ClickPositionImage\obj\Debug\_01_prac_ClickPositionImage.exe
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_01_prac_ClickPositionImage\obj\Debug\_01_prac_ClickPositionImage.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\22_MultiArray\22_MultiArray\bin\Debug\22_MultiArray.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\22_MultiArray\22_MultiArray\bin\Debug\22_MultiArray.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\22_MultiArray\22_MultiArray\obj\x86\Debug\22_MultiArray.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\22_MultiArray\22_MultiArray\obj\x86\Debug\22_MultiArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\22_MultiArray\22_MultiArray\obj\x86\Debug\22_MultiArray.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\22_MultiArray\22_MultiArray\obj\x86\Debug\22_MultiArray.pdb

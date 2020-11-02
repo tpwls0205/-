@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\200717_homework\ShowImage\bin\Debug\ShowImage.exe.config
+C:\Users\Admin\Desktop\200717_homework\ShowImage\bin\Debug\ShowImage.exe
+C:\Users\Admin\Desktop\200717_homework\ShowImage\bin\Debug\ShowImage.pdb
+C:\Users\Admin\Desktop\200717_homework\ShowImage\obj\Debug\ShowImage.Properties.Resources.resources
+C:\Users\Admin\Desktop\200717_homework\ShowImage\obj\Debug\ShowImage.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\200717_homework\ShowImage\obj\Debug\ShowImage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\200717_homework\ShowImage\obj\Debug\ShowImage.exe
+C:\Users\Admin\Desktop\200717_homework\ShowImage\obj\Debug\ShowImage.pdb
+C:\Users\Admin\Desktop\200717_homework\ShowImage\obj\Debug\ShowImage.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\200717_homework\MoveCircleUpDown\bin\Debug\MoveCircleUpDown.exe.config
+C:\Users\Admin\source\repos\200717_homework\MoveCircleUpDown\bin\Debug\MoveCircleUpDown.exe
+C:\Users\Admin\source\repos\200717_homework\MoveCircleUpDown\bin\Debug\MoveCircleUpDown.pdb
+C:\Users\Admin\source\repos\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.Properties.Resources.resources
+C:\Users\Admin\source\repos\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.exe
+C:\Users\Admin\source\repos\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.pdb
+C:\Users\Admin\Desktop\200717_homework\MoveCircleUpDown\bin\Debug\MoveCircleUpDown.exe.config
+C:\Users\Admin\Desktop\200717_homework\MoveCircleUpDown\bin\Debug\MoveCircleUpDown.exe
+C:\Users\Admin\Desktop\200717_homework\MoveCircleUpDown\bin\Debug\MoveCircleUpDown.pdb
+C:\Users\Admin\Desktop\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.Properties.Resources.resources
+C:\Users\Admin\Desktop\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.exe
+C:\Users\Admin\Desktop\200717_homework\MoveCircleUpDown\obj\Debug\MoveCircleUpDown.pdb

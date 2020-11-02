@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\200717_homework\FillGridWithCircle\bin\Debug\FillGridWithCircle.exe.config
+C:\Users\Admin\Desktop\200717_homework\FillGridWithCircle\bin\Debug\FillGridWithCircle.exe
+C:\Users\Admin\Desktop\200717_homework\FillGridWithCircle\bin\Debug\FillGridWithCircle.pdb
+C:\Users\Admin\Desktop\200717_homework\FillGridWithCircle\obj\Debug\FillGridWithCircle.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\200717_homework\FillGridWithCircle\obj\Debug\FillGridWithCircle.Properties.Resources.resources
+C:\Users\Admin\Desktop\200717_homework\FillGridWithCircle\obj\Debug\FillGridWithCircle.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\200717_homework\FillGridWithCircle\obj\Debug\FillGridWithCircle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\200717_homework\FillGridWithCircle\obj\Debug\FillGridWithCircle.exe
+C:\Users\Admin\Desktop\200717_homework\FillGridWithCircle\obj\Debug\FillGridWithCircle.pdb

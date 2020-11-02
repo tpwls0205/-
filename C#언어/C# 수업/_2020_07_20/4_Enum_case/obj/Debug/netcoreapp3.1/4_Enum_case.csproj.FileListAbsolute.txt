@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\obj\Debug\netcoreapp3.1\4_Enum_case.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\obj\Debug\netcoreapp3.1\4_Enum_case.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\obj\Debug\netcoreapp3.1\4_Enum_case.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\bin\Debug\netcoreapp3.1\4_Enum_case.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\bin\Debug\netcoreapp3.1\4_Enum_case.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\bin\Debug\netcoreapp3.1\4_Enum_case.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\bin\Debug\netcoreapp3.1\4_Enum_case.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\bin\Debug\netcoreapp3.1\4_Enum_case.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\bin\Debug\netcoreapp3.1\4_Enum_case.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\obj\Debug\netcoreapp3.1\4_Enum_case.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\obj\Debug\netcoreapp3.1\4_Enum_case.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\obj\Debug\netcoreapp3.1\4_Enum_case.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\4_Enum_case\obj\Debug\netcoreapp3.1\4_Enum_case.genruntimeconfig.cache

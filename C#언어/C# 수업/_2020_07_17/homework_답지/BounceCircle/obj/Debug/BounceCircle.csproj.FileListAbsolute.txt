@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\200717_homework\BounceCircle\bin\Debug\BounceCircle.exe.config
+C:\Users\Admin\source\repos\200717_homework\BounceCircle\bin\Debug\BounceCircle.exe
+C:\Users\Admin\source\repos\200717_homework\BounceCircle\bin\Debug\BounceCircle.pdb
+C:\Users\Admin\source\repos\200717_homework\BounceCircle\obj\Debug\BounceCircle.Properties.Resources.resources
+C:\Users\Admin\source\repos\200717_homework\BounceCircle\obj\Debug\BounceCircle.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\200717_homework\BounceCircle\obj\Debug\BounceCircle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\200717_homework\BounceCircle\obj\Debug\BounceCircle.exe
+C:\Users\Admin\source\repos\200717_homework\BounceCircle\obj\Debug\BounceCircle.pdb
+C:\Users\Admin\Desktop\200717_homework\BounceCircle\bin\Debug\BounceCircle.exe.config
+C:\Users\Admin\Desktop\200717_homework\BounceCircle\bin\Debug\BounceCircle.exe
+C:\Users\Admin\Desktop\200717_homework\BounceCircle\bin\Debug\BounceCircle.pdb
+C:\Users\Admin\Desktop\200717_homework\BounceCircle\obj\Debug\BounceCircle.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\200717_homework\BounceCircle\obj\Debug\BounceCircle.Properties.Resources.resources
+C:\Users\Admin\Desktop\200717_homework\BounceCircle\obj\Debug\BounceCircle.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\200717_homework\BounceCircle\obj\Debug\BounceCircle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\200717_homework\BounceCircle\obj\Debug\BounceCircle.exe
+C:\Users\Admin\Desktop\200717_homework\BounceCircle\obj\Debug\BounceCircle.pdb

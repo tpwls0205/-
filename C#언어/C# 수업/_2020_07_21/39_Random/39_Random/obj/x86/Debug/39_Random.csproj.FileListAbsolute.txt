@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\39_Random\39_Random\bin\Debug\39_Random.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\39_Random\39_Random\bin\Debug\39_Random.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\39_Random\39_Random\obj\x86\Debug\39_Random.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\39_Random\39_Random\obj\x86\Debug\39_Random.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\39_Random\39_Random\obj\x86\Debug\39_Random.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\39_Random\39_Random\obj\x86\Debug\39_Random.csprojAssemblyReference.cache

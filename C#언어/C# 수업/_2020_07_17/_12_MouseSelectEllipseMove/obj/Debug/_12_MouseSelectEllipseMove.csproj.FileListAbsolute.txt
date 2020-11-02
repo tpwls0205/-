@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_12_MouseSelectEllipseMove\obj\Debug\_12_MouseSelectEllipseMove.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_12_MouseSelectEllipseMove\obj\Debug\_12_MouseSelectEllipseMove.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_12_MouseSelectEllipseMove\obj\Debug\_12_MouseSelectEllipseMove.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_12_MouseSelectEllipseMove\bin\Debug\_12_MouseSelectEllipseMove.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_12_MouseSelectEllipseMove\bin\Debug\_12_MouseSelectEllipseMove.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_12_MouseSelectEllipseMove\bin\Debug\_12_MouseSelectEllipseMove.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_12_MouseSelectEllipseMove\obj\Debug\_12_MouseSelectEllipseMove.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_12_MouseSelectEllipseMove\obj\Debug\_12_MouseSelectEllipseMove.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\_12_MouseSelectEllipseMove\obj\Debug\_12_MouseSelectEllipseMove.csprojAssemblyReference.cache

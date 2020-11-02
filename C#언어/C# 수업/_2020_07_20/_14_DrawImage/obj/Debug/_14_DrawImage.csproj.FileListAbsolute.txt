@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\_14_DrawImage\bin\Debug\_14_DrawImage.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\_14_DrawImage\bin\Debug\_14_DrawImage.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\_14_DrawImage\bin\Debug\_14_DrawImage.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\_14_DrawImage\obj\Debug\_14_DrawImage.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\_14_DrawImage\obj\Debug\_14_DrawImage.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\_14_DrawImage\obj\Debug\_14_DrawImage.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\_14_DrawImage\obj\Debug\_14_DrawImage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\_14_DrawImage\obj\Debug\_14_DrawImage.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_20\_14_DrawImage\obj\Debug\_14_DrawImage.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\37_DateTime\37_DateTime\bin\Debug\37_DateTime.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\37_DateTime\37_DateTime\bin\Debug\37_DateTime.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\37_DateTime\37_DateTime\obj\x86\Debug\37_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\37_DateTime\37_DateTime\obj\x86\Debug\37_DateTime.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\37_DateTime\37_DateTime\obj\x86\Debug\37_DateTime.pdb

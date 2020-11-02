@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_05_prac_SelectRectShowCircleToColor\bin\Debug\_05_prac_SelectRectShowCircleToColor.exe.config
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_05_prac_SelectRectShowCircleToColor\bin\Debug\_05_prac_SelectRectShowCircleToColor.exe
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_05_prac_SelectRectShowCircleToColor\bin\Debug\_05_prac_SelectRectShowCircleToColor.pdb
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_05_prac_SelectRectShowCircleToColor\obj\Debug\_05_prac_SelectRectShowCircleToColor.Properties.Resources.resources
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_05_prac_SelectRectShowCircleToColor\obj\Debug\_05_prac_SelectRectShowCircleToColor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_05_prac_SelectRectShowCircleToColor\obj\Debug\_05_prac_SelectRectShowCircleToColor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_05_prac_SelectRectShowCircleToColor\obj\Debug\_05_prac_SelectRectShowCircleToColor.exe
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_05_prac_SelectRectShowCircleToColor\obj\Debug\_05_prac_SelectRectShowCircleToColor.pdb
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_05_prac_SelectRectShowCircleToColor\obj\Debug\_05_prac_SelectRectShowCircleToColor.csprojAssemblyReference.cache

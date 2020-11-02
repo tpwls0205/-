@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\200717_homework\ChaseMouse\bin\Debug\ChaseMouse.exe.config
+C:\Users\Admin\Desktop\200717_homework\ChaseMouse\bin\Debug\ChaseMouse.exe
+C:\Users\Admin\Desktop\200717_homework\ChaseMouse\bin\Debug\ChaseMouse.pdb
+C:\Users\Admin\Desktop\200717_homework\ChaseMouse\obj\Debug\ChaseMouse.Properties.Resources.resources
+C:\Users\Admin\Desktop\200717_homework\ChaseMouse\obj\Debug\ChaseMouse.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\200717_homework\ChaseMouse\obj\Debug\ChaseMouse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\200717_homework\ChaseMouse\obj\Debug\ChaseMouse.exe
+C:\Users\Admin\Desktop\200717_homework\ChaseMouse\obj\Debug\ChaseMouse.pdb
+C:\Users\Admin\Desktop\200717_homework\ChaseMouse\obj\Debug\ChaseMouse.csprojAssemblyReference.cache

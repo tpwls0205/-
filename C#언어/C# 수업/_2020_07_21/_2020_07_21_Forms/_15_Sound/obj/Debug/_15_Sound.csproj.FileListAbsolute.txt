@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\bin\Debug\_15_Sound.exe.config
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\bin\Debug\_15_Sound.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\bin\Debug\_15_Sound.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\obj\Debug\_15_Sound.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\obj\Debug\_15_Sound.Form1.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\obj\Debug\_15_Sound.Properties.Resources.resources
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\obj\Debug\_15_Sound.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\obj\Debug\_15_Sound.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\obj\Debug\_15_Sound.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\obj\Debug\_15_Sound.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\bin\Debug\Interop.MediaPlayer.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_21\_2020_07_21_Forms\_15_Sound\obj\Debug\_15_Sound.csproj.ResolveComReference.cache

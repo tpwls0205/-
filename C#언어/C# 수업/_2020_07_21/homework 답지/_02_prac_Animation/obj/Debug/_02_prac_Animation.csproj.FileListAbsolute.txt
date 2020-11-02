@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_02_prac_Animation\obj\Debug\_02_prac_Animation.Properties.Resources.resources
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_02_prac_Animation\obj\Debug\_02_prac_Animation.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_02_prac_Animation\obj\Debug\_02_prac_Animation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_02_prac_Animation\bin\Debug\_02_prac_Animation.exe.config
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_02_prac_Animation\bin\Debug\_02_prac_Animation.exe
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_02_prac_Animation\bin\Debug\_02_prac_Animation.pdb
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_02_prac_Animation\obj\Debug\_02_prac_Animation.exe
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_02_prac_Animation\obj\Debug\_02_prac_Animation.pdb
+C:\Users\Admin\source\repos\c#\cs_07_21\cs_07_21_Forms\_02_prac_Animation\obj\Debug\_02_prac_Animation.csprojAssemblyReference.cache

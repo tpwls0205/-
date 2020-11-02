@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.exe
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.deps.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.runtimeconfig.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.dll
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.pdb
+C:\Users\Admin\Desktop\수업파일\비트캠프 c#언어\_2020_07_17\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.genruntimeconfig.cache

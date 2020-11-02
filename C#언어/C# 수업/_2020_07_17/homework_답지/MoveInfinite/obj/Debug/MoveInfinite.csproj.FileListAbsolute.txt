@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\200717_homework\MoveInfinite\bin\Debug\MoveInfinite.exe.config
+C:\Users\Admin\Desktop\200717_homework\MoveInfinite\bin\Debug\MoveInfinite.exe
+C:\Users\Admin\Desktop\200717_homework\MoveInfinite\bin\Debug\MoveInfinite.pdb
+C:\Users\Admin\Desktop\200717_homework\MoveInfinite\obj\Debug\MoveInfinite.Properties.Resources.resources
+C:\Users\Admin\Desktop\200717_homework\MoveInfinite\obj\Debug\MoveInfinite.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\200717_homework\MoveInfinite\obj\Debug\MoveInfinite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\200717_homework\MoveInfinite\obj\Debug\MoveInfinite.exe
+C:\Users\Admin\Desktop\200717_homework\MoveInfinite\obj\Debug\MoveInfinite.pdb
