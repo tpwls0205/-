@@ -1,0 +1,5 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\15_GenericList\15_GenericList\bin\Debug\15_GenericList.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\15_GenericList\15_GenericList\bin\Debug\15_GenericList.pdb
+D:\수업파일\비트캠프 c#언어\csharp_lecture\15_GenericList\15_GenericList\obj\x86\Debug\15_GenericList.csproj.CoreCompileInputs.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\15_GenericList\15_GenericList\obj\x86\Debug\15_GenericList.exe
+D:\수업파일\비트캠프 c#언어\csharp_lecture\15_GenericList\15_GenericList\obj\x86\Debug\15_GenericList.pdb

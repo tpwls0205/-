@@ -1,0 +1,2 @@
+D:\수업파일\비트캠프 c#언어\csharp_lecture\14_GenericWhere\14_GenericWhere\obj\x86\Debug\14_GenericWhere.csprojAssemblyReference.cache
+D:\수업파일\비트캠프 c#언어\csharp_lecture\14_GenericWhere\14_GenericWhere\obj\x86\Debug\14_GenericWhere.csproj.CoreCompileInputs.cache
