@@ -1,0 +1,62 @@
+--1) 3학년 학생의 학과별 평점 평균과 분산 및 편차를 검색하세요
+SELECT MAJOR 학과, AVG(AVR) 평균, VARIANCE(AVR) 분산,
+STDDEV(AVR) 표준편차
+FROM STUDENT
+WHERE SYEAR = 3
+GROUP BY MAJOR;
+
+--2) 화학과 학년별 평균 평점을 검색하세요
+SELECT SYEAR 학년, AVG(AVR) "평균 평점"
+FROM STUDENT
+WHERE MAJOR = '화학'
+GROUP BY SYEAR;
+
+--3) 각 학생별 기말고사 평균을 검색하세요
+SELECT SNAME 학생이름, AVG(RESULT)
+FROM SCORE
+JOIN STUDENT USING(SNO)
+GROUP BY SNAME;
+
+SELECT SNAME 학생이름, AVG(RESULT)
+FROM STUDENT ST, SCORE S
+WHERE ST.SNO = S.SNO
+GROUP BY SNAME;
+
+--4) 각 학과별 학생 수를 검색하세요
+SELECT MAJOR 학과, COUNT(SNAME) 학생수
+FROM STUDENT
+GROUP BY MAJOR;
+
+--5) 화학과와 생물학과 학생 4.5 환산 평점의 평균을 각각 검색하세요
+SELECT MAJOR 학과, AVG(AVR/8)*9 환산평균
+FROM STUDENT
+WHERE MAJOR = '화학'
+OR MAJOR = '생물'
+GROUP BY MAJOR;
+
+--6) 부임일이 10년 이상 된 직급별(정교수, 조교수, 부교수) 교수의 수를 
+--   검색하세요
+SELECT ORDERS 직급, COUNT(*) "교수의 수"
+FROM PROFESSOR
+WHERE TO_CHAR(HIREDATE, 'YYYY')+'10' <=  TO_CHAR(SYSDATE, 'YYYY')
+GROUP BY ORDERS;
+
+--7) 과목명에 화학이 포함된 과목의 학점수 총합을 검색하세요
+SELECT SUM(ST_NUM) 총합, COUNT(CNAME) 과목수
+FROM COURSE
+WHERE CNAME LIKE '%화학%';
+
+--8) 화학과 학생들의 기말고사 성적을 성적순으로 검색하세요
+SELECT SNAME 이름, AVG(RESULT) 성적
+FROM SCORE
+JOIN STUDENT USING(SNO)
+WHERE MAJOR = '화학'
+GROUP BY SNAME
+ORDER BY AVG(RESULT) DESC;
+
+--9) 학과별 기말고사 평균을 성적순으로 검색하세요
+SELECT MAJOR 학과, AVG(RESULT) 성적
+FROM SCORE
+JOIN STUDENT USING(SNO)
+GROUP BY MAJOR
+ORDER BY AVG(RESULT) DESC;

@@ -1,0 +1,17 @@
+--1) 학생중에 동명이인을 검색한다
+SELECT DISTINCT ST1.SNAME 동명이인
+FROM STUDENT ST1, STUDENT ST2
+WHERE ST1.SNAME = ST2.SNAME
+AND ST1.SNO != ST2.SNO;
+
+--2) 전체 교수 명단과 교수가 담당하는 과목의 이름을 학과 순으로 검색한다
+SELECT PNAME 교수명, CNAME 과목명
+FROM PROFESSOR P, COURSE C
+WHERE P.PNO = C.PNO(+)
+ORDER BY CNAME;
+
+--3) 이번 학기 등록된 모든 과목과 담당 교수의 학점 순으로 검색한다
+SELECT C.CNAME 과목, P.PNAME 교수이름, ST_NUM 학점
+FROM COURSE C, PROFESSOR P
+WHERE P.PNO(+) = C.PNO
+ORDER BY ST_NUM DESC;

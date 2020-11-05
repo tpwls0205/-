@@ -1,0 +1,71 @@
+--BETWEEN..AND 연산자
+--SELECT 컬럼, 컬럼, ...
+--FROM 테이블
+--WHERE 컬럼 BETWEEN 값1 AND 값2;
+--; 해당 컬럼 >= 값1 AND <= 값2
+
+--1) 급여가 1000에서 2000이내인 사원
+SELECT *
+FROM EMP
+WHERE SAL BETWEEN 1000 AND 2000;
+
+SELECT *
+FROM EMP
+WHERE SAL >= 1000 AND SAL <= 2000;
+
+--2) 10번, 20번 부서 사원
+SELECT *
+FROM EMP
+WHERE DNO BETWEEN '10' AND '20';
+
+--3) 1992년에서 1996년 사이에 입사한 사원을 검색하라
+--'1992/01/01' => '1992/01/01:0시0분0초'
+--'1996/12/31' => '1996/12/31:0시0분0초'
+--운나쁘면 '1996/12/31:0시0분1초'에 입사한 사원은 제외된다
+SELECT *
+FROM EMP
+WHERE HDATE BETWEEN '1992/01/01' AND '1996/12/31'
+ORDER BY HDATE;
+
+ALTER SESSION SET nls_date_format='YYYY/MM/DD:HH24:MI:SS';
+
+SELECT *
+FROM EMP
+WHERE HDATE BETWEEN '1992/01/01:00:00:00' AND '1996/12/31:23:59:59'
+ORDER BY HDATE;
+
+--4) 급여가 2000에서 1000 사이의 사원을 검색하라
+SELECT *
+FROM EMP
+WHERE SAL BETWEEN 2000 AND 1000;
+
+-- BETWEEN은 작은게 반드시 먼저 와야한다
+SELECT *
+FROM EMP
+WHERE SAL BETWEEN 1000 AND 2000;
+
+--IN 연산자
+--SELECT 컬럼, 컬럼
+--FROM 테이블
+--WHERE 컬럼 IN (값1, 값2, ...)
+--ORDER BY 컬럼, ...;
+--지정된 값 중에 일치하는 것이 하나라도 있으면 검색
+
+--4) 개발이나 관리 업무를 담당하는 사원
+SELECT *
+FROM EMP
+WHERE JOB IN ('개발','회계')
+ORDER BY JOB;
+
+--5) 10, 20번 부서사원
+SELECT *
+FROM EMP
+WHERE DNO IN ('10', '20')
+ORDER BY DNO;
+
+SELECT *
+FROM EMP
+WHERE DNO='10' OR DNO='20'
+ORDER BY DNO;
+
+

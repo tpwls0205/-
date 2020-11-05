@@ -1,0 +1,36 @@
+--1) 각 과목의 과목명과 담당 교수의 교수명을 검색하라
+SELECT PNAME 담당교수, CNAME 과목명
+FROM COURSE
+JOIN PROFESSOR USING(PNO);
+
+--2) 화학과 학생의 기말고사 성적을 모두 검색하라
+SELECT SNAME 이름, MAJOR 학과, RESULT 성적
+FROM STUDENT
+NATURAL JOIN SCORE
+WHERE MAJOR = '화학';
+
+--3) 유기화학과목 수강생의 기말고사 시험점수를 검색하라
+SELECT CNAME 과목명, SNAME 학생이름, RESULT 시험점수
+FROM SCORE
+JOIN COURSE USING(CNO)
+JOIN STUDENT USING(SNO)
+WHERE CNAME = '유기화학';
+
+--4) 화학과 학생이 수강하는 과목을 담당하는 교수의 명단을 검색하라
+SELECT DISTINCT PNAME 교수명, CNAME 과목명, MAJOR 학과
+FROM SCORE
+JOIN STUDENT USING(SNO)
+JOIN COURSE USING(CNO)
+JOIN PROFESSOR USING(PNO)
+WHERE MAJOR = '화학'
+ORDER BY PNAME;
+
+--5) 모든 교수의 명단과 담당 과목을 검색한다
+SELECT PNAME 담당교수, CNAME 과목명
+FROM COURSE
+RIGHT JOIN PROFESSOR USING(PNO);
+
+--6) 모든 교수의 명단과 담당 과목을 검색한다(단 모든 과목도 같이 검색한다)
+SELECT PNAME 담당교수, CNAME 과목명
+FROM COURSE
+FULL JOIN PROFESSOR USING(PNO);
