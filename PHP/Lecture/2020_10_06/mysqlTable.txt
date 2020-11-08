@@ -1,0 +1,18 @@
+DROP TABLE IF EXISTS loginInfo;
+
+CREATE TABLE IF NOT EXISTS loginInfo(
+	email varchar(30) NOT NULL,
+	password varchar(30) NOT NULL,
+	PRIMARY KEY(email)
+);
+
+DROP TABLE IF EXISTS userInfo;
+
+CREATE TABLE IF NOT EXISTS userInfo(
+	email varchar(30) NOT NULL,
+	score int NOT NULL,
+	x decimal(16,6),
+	y decimal(16,6),
+	z decimal(16,6),
+	PRIMARY KEY(email)
+);

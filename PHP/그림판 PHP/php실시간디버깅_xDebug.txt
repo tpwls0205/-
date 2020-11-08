@@ -1,0 +1,24 @@
+1. VSCode 설치
+2. Extensions -> PHP Debug, PHP Extension Pack : install
+                  PHP Intelephense, PHP IntelliSense, PHP Tools for VS Code
+3. MAMP -> Open WebStart page ->phpInfo
+   Ctrl + a , Ctrl + c
+4. https://xdebug.org/wizard 에 phpInfo붙여넣기
+5. "Analyse my phpinfo() output" 누르기
+6. 
+  6.1 Download php_xdebug-2.9.8-7.4-vc15.dll
+  6.2 Move the downloaded file to C:\MAMP\bin\php\php7.4.1\ext
+  6.3 Update C:\MAMP\conf\php7.4.1\php.ini and change the line
+  //6.4 zend_extension = C:\MAMP\bin\php\php7.4.1\ext\php_xdebug-2.9.8-7.4-vc15.dll
+
+[XDebug]
+zend_extension = C:\MAMP\bin\php\php7.4.1\ext\php_xdebug-2.9.8-7.4-vc15.dll
+xdebug.remote_enable = true
+xdebug.remote_autostart = 1
+xdebug.remote_host = 127.0.0.1
+xdebug.remote_port = 9000
+xdebug.remote_handler = dbgp
+
+  6.5 Restart the webserver
+
+7. Xdebug helper  크롬에 추가
