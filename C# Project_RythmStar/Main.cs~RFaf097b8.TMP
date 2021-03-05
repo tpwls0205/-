@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _RythmStar
+{
+    public partial class Main : Form
+    {
+        Form1 form = null;
+        Form2 form2 = null;
+        public Main(Form1 f, Form2 f2)
+        {
+            InitializeComponent();
+            this.form = f;
+            this.form2 = f2;
+            
+        }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            this.Width = 800 + 20;
+            this.Height = 800;
+        }
+
+        private void startGame_Click(object sender, EventArgs e)
+        {
+            Form1 form = new Form1();
+            form.ShowDialog();         
+        }
+
+        private void Rank_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2();
+            f2.ShowDialog();
+        }
+
+        private void endGame_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

@@ -1,0 +1,332 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Media;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _RythmStar
+{
+    public partial class Form1 : Form
+    {
+        Timer timer = new Timer();
+        Random rand = new Random();
+
+        const int ROWS = 800;
+        const int COLS = 800;
+
+        const int OBJ_SIZE = 100;
+        int objectX = 200;
+        Pen outLine = new Pen(Brushes.Brown, 5);
+        Pen inLine = new Pen(Brushes.DarkSalmon, 2);
+
+
+        List<ButtonBox> btnBox = new List<ButtonBox>();
+        bool clickNow = false;
+
+        Image[] img = new Image[20];
+
+        Brush[] br = { Brushes.Blue, Brushes.Green, Brushes.Yellow, Brushes.Brown };
+        List<Rythmbox> rcList = new List<Rythmbox>();
+        List<int> randNum = new List<int>();
+        int objCnt = 0;
+
+        int userPoint = 0;
+        int comboCnt = 0;
+        int setHp = 250;
+        int userHp = 0;
+        string feedBack = "";
+        Font fontP = new Font("맑은 고딕", 50);
+        Font fontPView = new Font("궁서체", 25);
+
+ 
+
+        public Form1()
+        {
+            this.DoubleBuffered = true;
+            InitializeComponent();
+            this.Paint += Form1_Paint;
+            this.KeyDown += Form1_KeyDown;
+            this.KeyUp += Form1_KeyUp;
+            timer.Interval = 15;
+            timer.Tick += Timer_Tick;
+        }
+
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            objCnt++;
+
+            if (objCnt % 28 == 0)
+            {
+                int x = rand.Next(4);
+                randNum.Add(x);
+                rcList.Add(new Rythmbox(objectX + x * OBJ_SIZE, -50, x, false));
+            }
+
+            Invalidate();
+        }
+
+        private void Form1_KeyUp(object sender, KeyEventArgs e)
+        {
+            switch (e.KeyCode)
+            {
+                case Keys.Left:
+                    btnBox[0].IsClick = false;
+                    break;
+                case Keys.Right:
+                    btnBox[1].IsClick = false;
+                    break;
+                case Keys.Up:
+                    btnBox[2].IsClick = false;
+                    break;
+                case Keys.Down:
+                    btnBox[3].IsClick = false;
+                    break;
+            }
+            Invalidate();
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            SoundPlayer sp1 = new SoundPlayer();
+            sp1.SoundLocation = "../../music1.wav";
+            SoundPlayer sp2 = new SoundPlayer();
+            sp2.SoundLocation = "../../music2.wav";
+            SoundPlayer sp3 = new SoundPlayer();
+            sp3.SoundLocation = "../../music3.wav";
+
+            switch (e.KeyCode)
+            {
+                case Keys.Enter:
+                    timer.Start();
+                    sp1.Play();
+                    break;
+                case Keys.Left:
+                    if (btnBox[0].IsClick == false)
+                    {
+                        btnBox[0].IsClick = true;
+                        clickNow = true;
+                        checkPoint(0);
+                    }
+                    break;
+                case Keys.Up:
+                    if (btnBox[1].IsClick == false)
+                    {
+                        btnBox[1].IsClick = true;
+                        clickNow = true;
+                        checkPoint(1);
+                    }
+                    break;
+                case Keys.Right:
+                    if (btnBox[2].IsClick == false)
+                    {
+                        btnBox[2].IsClick = true;
+                        clickNow = true;
+                        checkPoint(2);
+                    }
+                    break;
+                case Keys.Down:
+                    if (btnBox[3].IsClick == false)
+                    {
+                        btnBox[3].IsClick = true;
+                        clickNow = true;
+                        checkPoint(3);
+                    }
+                    break;
+            }
+            if (clickNow) Invalidate();
+        }
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+
+            Graphics g = e.Graphics;
+
+            // 장애물 라인 그리기
+            for (int i = 0; i < 5; i++)
+            {
+                g.DrawLine(outLine, objectX + i * OBJ_SIZE, 0, objectX + i * OBJ_SIZE, 600);
+                if (i > 0 && i < 4)
+                {
+                    g.DrawLine(inLine, objectX + i * OBJ_SIZE, 0, objectX + i * OBJ_SIZE, 600);
+                }
+            }
+
+            // 버튼 그리기
+            for (int i = 0; i < 4; i++)
+            {
+                g.DrawRectangle(outLine, btnBox[i].Bx, btnBox[i].By, OBJ_SIZE, 50);
+            }
+
+            // 체통
+            g.DrawRectangle(outLine, btnBox[4].Bx - 3, btnBox[4].By - 3, OBJ_SIZE / 2, setHp);
+            g.FillRectangle(Brushes.Red, btnBox[4].Bx, btnBox[4].By, OBJ_SIZE / 2, setHp);
+            g.FillRectangle(Brushes.Beige, btnBox[4].Bx, btnBox[4].By, OBJ_SIZE / 2, userHp);
+
+            // 점수판 선
+            g.DrawLine(outLine, 0, 650, ROWS, 650);
+
+            // 버튼클릭확인
+            checkButton();
+
+            // 점수, 문구, 콤보 띄우기
+            string score = userPoint.ToString();
+            string combo = comboCnt.ToString() + "  Combo !";
+            g.DrawString(score, fontP, Brushes.Gold, ROWS / 2 - 75, 650);
+            g.DrawString(combo, fontPView, br[rand.Next(4)], ROWS - objectX + 20, objectX / 2 + 50);
+            g.DrawString(feedBack, fontPView, br[rand.Next(4)], ROWS - objectX, objectX);
+
+            // 리듬박스 생성 및 삭제
+            for (int i = 0; i < rcList.Count; i++)
+            {
+                rcList[i] = new Rythmbox(rcList[i].Rx, rcList[i].Ry + 5, rcList[i].Imgnum, false);
+                g.DrawImage(img[rcList[i].Imgnum], rcList[i].Rx, rcList[i].Ry, OBJ_SIZE, 50);
+                if (rcList[i].Ry == 600)
+                {
+                    rcList[i].End = true;
+                    rcList.RemoveAt(i);
+                    randNum.RemoveAt(i);
+
+                    if (btnBox[0].IsClick == false && btnBox[1].IsClick == false &&
+                       btnBox[2].IsClick == false && btnBox[3].IsClick == false) userHp += 25;
+
+                    if (userHp >= 250)
+                    {
+                        g.Clear(Color.White);
+                        feedBack = "You Lose~!";
+                        break;
+                    }
+                }
+            }
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Beige;
+            this.Width = 800 + 20;
+            this.Height = 800;
+
+            setButton();
+            setImage();
+            setBGM();
+        }
+
+        void setButton()
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                btnBox.Add(new ButtonBox(objectX + i * OBJ_SIZE, 600, false));
+            }
+            btnBox.Add(new ButtonBox(ROWS - OBJ_SIZE / 2, COLS / 2, false));
+        }
+
+        class ButtonBox
+        {
+            int bx;
+            int by;
+            bool isClick;
+
+            public ButtonBox(int bx, int by, bool isClick)
+            {
+                this.Bx = bx;
+                this.By = by;
+                this.IsClick = isClick;
+            }
+
+            public int Bx { get => bx; set => bx = value; }
+            public int By { get => by; set => by = value; }
+            public bool IsClick { get => isClick; set => isClick = value; }
+        }
+
+        void checkButton()
+        {
+            Graphics g = CreateGraphics();
+            for (int i = 0; i < btnBox.Count; i++)
+            {
+                if (btnBox[i].IsClick)
+                {
+                    g.FillRectangle(Brushes.Red, btnBox[i].Bx, btnBox[i].By, objectX / 2, 50);
+                    btnBox[i].IsClick = false;
+                }
+            }
+        }
+
+        class Rythmbox
+        {
+            int rx;
+            int ry;
+            int imgnum;
+            bool end;
+
+            public Rythmbox(int rx, int ry, int imgnum, bool end)
+            {
+                this.Rx = rx;
+                this.Ry = ry;
+                this.Imgnum = imgnum;
+                this.End = end;
+            }
+
+            public int Rx { get => rx; set => rx = value; }
+            public int Ry { get => ry; set => ry = value; }
+            public int Imgnum { get => imgnum; set => imgnum = value; }
+            public bool End { get => end; set => end = value; }
+        }
+
+        void setImage()
+        {
+            img[0] = Image.FromFile("../../LEFT.png");
+            img[1] = Image.FromFile("../../UP.png");
+            img[2] = Image.FromFile("../../RIGHT.png");
+            img[3] = Image.FromFile("../../DOWN.png");
+        }
+
+        void setBGM()
+        {
+            
+        }
+        void checkPoint(int num)
+        {
+            Graphics g = CreateGraphics();
+
+            for (int i = 0; i < rcList.Count; i++)
+            {
+                if (rcList[i].Ry >= btnBox[num].By - 30 ||
+                    rcList[i].Ry == btnBox[num].By)
+                {
+                    feedBack = " Good !";
+                    userPoint += 100;
+                    comboCnt++;
+                    Console.WriteLine("굳 !");
+                    break;
+                }
+
+                if (rcList[i].Ry >= btnBox[num].By - 45 &&
+                        rcList[i].Ry <= btnBox[num].By)
+                {
+                    feedBack = " Not bad !";
+                    userPoint += 50;
+                    comboCnt++;
+                    Console.WriteLine("까비 !");
+                    break;
+                }
+                if (rcList[i].Ry <= btnBox[num].By - 60)
+                {
+                    feedBack = " plz focus \n on Game ~! ";
+                    userPoint -= 30;             
+                    comboCnt = 0;
+                    if(comboCnt == 0)
+                        userHp += 25;
+                    Console.WriteLine("바보");
+                    break;
+                }
+
+            }
+        }
+
+    }
+}
